@@ -5,5 +5,3 @@
 <h2>title</h2>
 <button>save as </button>
 <button>publish</button>
-<button>download Wattpad</button>
-<button>Tik Tok</button>
