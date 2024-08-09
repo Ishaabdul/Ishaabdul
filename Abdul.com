@@ -12,3 +12,4 @@
 <input placeholder="Last name"/>
 <input placeholder="Email"/>
 input placeholder="password"/>
+</form>
